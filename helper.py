@@ -1,0 +1,1 @@
+# When to use Class Method and Static method
